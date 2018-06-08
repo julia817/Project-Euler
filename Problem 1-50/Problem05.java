@@ -1,7 +1,7 @@
 //Julia Zhu
 //May 11, 2018
 
-public class Problem5 {
+public class Problem05 {
     public static void main(String[] args) {
         boolean result = false;
         int input = 100;

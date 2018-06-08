@@ -1,7 +1,7 @@
 //Julia Zhu
 //May 7, 2018
 
-public class Problem2 {
+public class Problem02 {
     public static void main(String[] args) {
         int sum = 2;
         int a = 1;

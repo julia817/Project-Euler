@@ -1,7 +1,7 @@
 //Julia Zhu
 //May 11, 2018
 
-public class Problem6 {
+public class Problem06 {
     public static void main(String[] args) {
         int sum_sq = 0;
         int sq_sum = 0;

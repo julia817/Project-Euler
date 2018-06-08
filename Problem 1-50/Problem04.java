@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class Problem4 {
+public class Problem04 {
     public static void main(String[] args) {
         int num = 0;
         ArrayList<Integer> list = new ArrayList<Integer>();

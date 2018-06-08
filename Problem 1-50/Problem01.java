@@ -1,7 +1,7 @@
 //Julia Zhu
 //May 7, 2018
 
-public class Problem1 {
+public class Problem01 {
     public static void main(String[] args) {
         int sum = 23;
         for(int i=10; i<1000; i++) {

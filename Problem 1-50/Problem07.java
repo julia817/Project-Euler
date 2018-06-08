@@ -1,7 +1,7 @@
 //Julia Zhu
 //May 11, 2018
 
-public class Problem7 {
+public class Problem07 {
     public static void main(String[] args) {
         int count = 0;
         int num = 1;
